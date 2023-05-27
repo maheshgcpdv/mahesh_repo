@@ -15,3 +15,4 @@ commit -m "first commit"
 git push origin master
 git pull origin master
 cat git_training_file
+i have understood this git push and pull
